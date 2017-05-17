@@ -3,12 +3,10 @@
 ***Programmer*** : _MohammadHosseinHeidari_
 
 
-***Telegram ID*** : [NobLest](http://telegram.me/NobLest)
+***Telegram ID*** : [NobLest](http://telegram.me/oOosobhanoOo)
 
-***Bot ID*** : [NobLest](http://telegram.me/harfnashenasbemanbot)
+***Bot ID*** : [NobLest](http://telegram.me/textnashenasbot)
 
-***Instagram ID*** : [XDeveloperX](https://instagram.com/XDeveloperX)
-
-***channel :*** [MrPHPTM](https://telegram.me/mrphpTm)
+***channel :*** [MrPHPTM](https://telegram.me/nashenasharf0)
  
 
