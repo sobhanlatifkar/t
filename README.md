@@ -1,12 +1,12 @@
 *harfnashenasbeman V1.1*
 
-***Programmer*** : _MohammadHosseinHeidari_
+***Programmer*** : sobhan
 
 
-***Telegram ID*** : [NobLest](http://telegram.me/oOosobhanoOo)
+***Telegram ID*** : [sobhan](http://telegram.me/oOosobhanoOo)
 
-***Bot ID*** : [NobLest](http://telegram.me/textnashenasbot)
+***Bot ID*** : [bot](http://telegram.me/textnashenasbot)
 
-***channel :*** [MrPHPTM](https://telegram.me/nashenasharf0)
+***channel :*** [channel](https://telegram.me/nashenasharf0)
  
 
