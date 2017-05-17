@@ -2,13 +2,13 @@
 ob_start();
 /*
 ─═ঊঈঊঈ═─╮
-Developer : mohammadhosseinheidari
-Dev ID : @NOBLEST
-Channel ID : @harfnashenasbeman
-Github Addres : github.com/NobLestDev/harfnashenasbeman
+Developer : sobhan
+Dev ID : @oOosobhanoOo
+Channel ID : @nashenasharf0
+Github Addres : github.com/sobhanlatifkar/t
 ─═ঊঈঊঈ═─╯
 */
-define('API_KEY','توکن');
+define('API_KEY','381250619:AAFZ7Pqrn3IBTZHBwahwiZ9I7jKKgas--Dg');
 //-----------------------------------------------------------------------------------------
 //فانکشن MrPHPBot :
 function MrPHPBot($method,$datas=[]){
@@ -38,7 +38,7 @@ $username = $message->from->username;
 mkdir("data/$username");
 $textmassage = $message->text;
 $step= file_get_contents("data/$from_id/file.txt");
-$Dev = 193930120;
+$Dev = 247789358;
 $txtt = file_get_contents('data/users.txt');
 $ban = file_get_contents('data/banlist.txt');
 $chatha = file_get_contents("data/chatlist.txt");
